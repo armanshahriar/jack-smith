@@ -1,0 +1,97 @@
+.top {
+    background-image: url(../images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.half {
+    width: 30%;
+    float: left;
+    margin-left: 81px;
+    padding-left: 58px;
+    padding-top: 63px;
+}
+
+.half img {
+    width: 100%;
+}
+
+.hello {
+    font-size: 60px;
+}
+
+.name {
+    font-size: 70px;
+    color: rgb(243, 52, 148);
+}
+
+p {
+    color: grey;
+    font-size: 23px;
+    line-height: 30px;
+    padding-bottom: 10px;
+
+}
+
+.hire {
+    padding: 15px 25px;
+    background-image: linear-gradient(45deg, rgb(218, 88, 153), rgb(243, 52, 148));
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+.b {
+    font-size: 60px;
+}
+
+.cv {
+    padding: 15px 25px;
+    background-image: linear-gradient(45deg, rgb(218, 88, 153), rgb(243, 52, 148));
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+.bio {
+    background-image: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.right {
+    float: right;
+    padding-right: 58px;
+    padding-right: 63px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.wor {
+    width: 22%;
+    float: left;
+    margin-left: 81px;
+    padding-left: 58px;
+    padding-top: 63px;
+}
+
+.wor img {
+    width: 100%;
+}
+
+.Work {
+    background-image: url(../images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.my{
+    text-align: center;
+    font-size: 60px;
+}
