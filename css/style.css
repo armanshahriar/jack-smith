@@ -95,3 +95,49 @@ body {
     text-align: center;
     font-size: 60px;
 }
+.what{
+    font-size: 50px;
+    text-align: center;
+}
+.bruce{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.founder{
+    text-align: center;
+    color: gray;
+    margin-bottom: 55px;
+}
+.lorem{
+    text-align: center;
+    color: black;
+}
+.WCS{
+    background-image: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.message{
+    background-image:linear-gradient(60deg,#E84F93,#E74A6D);
+    margin: 0 476px;
+    padding: 10px 0;
+    /* display: inline; */
+    /* width: 100px; */
+    /* text-align: center; */
+    /* float:inline-start; */
+    border-radius: 10px;
+} 
+.me{
+    text-align: center;
+    padding-bottom: 0;
+    color: #fff;
+}
+.email{
+    text-align: center;
+    color: #fff;
+}
+.arman{
+    text-align: center;
+}
