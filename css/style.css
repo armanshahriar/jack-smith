@@ -1,3 +1,16 @@
+/* common css start  */
+body {
+    padding: 0;
+    margin: 0;
+}
+p {
+    color: grey;
+    font-size: 23px;
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+/* common css end  */
+/* top section start */
 .top {
     background-image: url(../images/header-bg.png);
     background-repeat: no-repeat;
@@ -25,14 +38,6 @@
     color: rgb(243, 52, 148);
 }
 
-p {
-    color: grey;
-    font-size: 23px;
-    line-height: 30px;
-    padding-bottom: 10px;
-
-}
-
 .hire {
     padding: 15px 25px;
     background-image: linear-gradient(45deg, rgb(218, 88, 153), rgb(243, 52, 148));
@@ -41,6 +46,20 @@ p {
     color: white;
     text-transform: uppercase;
     margin-top: 5px;
+}
+
+.right {
+    float: right;
+    padding-right: 58px;
+    padding-right: 63px;
+}
+
+/* top section end */
+/* bio section start */
+.bio {
+    background-image: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
 }
 
 .b {
@@ -57,21 +76,17 @@ p {
     margin-top: 5px;
 }
 
-.bio {
-    background-image: url(../images/biography-bg.png);
+/* bio section end */
+/* Work section start */
+.Work {
+    background-image: url(../images/latest-work-bg.png);
     background-repeat: no-repeat;
-    height: 700px;
+    height: 600px;
 }
 
-.right {
-    float: right;
-    padding-right: 58px;
-    padding-right: 63px;
-}
-
-body {
-    padding: 0;
-    margin: 0;
+.my {
+    text-align: center;
+    font-size: 60px;
 }
 
 .wor {
@@ -86,58 +101,59 @@ body {
     width: 100%;
 }
 
-.Work {
-    background-image: url(../images/latest-work-bg.png);
+/* Work section end */
+/* review secion start */
+.WCS {
+    background-image: url(../images/footer-bg.png);
     background-repeat: no-repeat;
     height: 600px;
 }
-.my{
-    text-align: center;
-    font-size: 60px;
-}
-.what{
+
+.what {
     font-size: 50px;
     text-align: center;
 }
-.bruce{
+
+.bruce {
     font-size: 30px;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 20px;
 }
-.founder{
+
+.founder {
     text-align: center;
     color: gray;
     margin-bottom: 55px;
 }
-.lorem{
+
+.lorem {
     text-align: center;
     color: black;
 }
-.WCS{
-    background-image: url(../images/footer-bg.png);
-    background-repeat: no-repeat;
-    height: 600px;
-}
-.message{
-    background-image:linear-gradient(60deg,#E84F93,#E74A6D);
+
+.message {
+    background-image: linear-gradient(60deg, #E84F93, #E74A6D);
     margin: 0 476px;
     padding: 10px 0;
-    /* display: inline; */
-    /* width: 100px; */
-    /* text-align: center; */
-    /* float:inline-start; */
     border-radius: 10px;
-} 
-.me{
+}
+
+.me {
     text-align: center;
     padding-bottom: 0;
     color: #fff;
 }
-.email{
+
+.email {
     text-align: center;
     color: #fff;
 }
-.arman{
+
+/* review secion end */
+/* footer section start */
+.arman {
     text-align: center;
 }
+
+/* footer section end */
